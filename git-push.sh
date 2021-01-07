@@ -4,7 +4,7 @@ echo "user:Tens0L"
 
 
 git add .
-git commit -m "build at konoha"
+git commit -m "mkdir TensoL module!"
 git push -u origin konoha
 
 
